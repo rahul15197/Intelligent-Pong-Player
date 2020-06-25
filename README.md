@@ -1,4 +1,4 @@
-# Intelligent-Pong-Player
+# Intelligent Pong Player
 An Intelligent Pong Player using Reinforcement Learning
 
 <h1 align="center">
